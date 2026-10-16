@@ -1,3 +1,3 @@
-Model,Accuracy (%)
-Logistic Regression,92.27
-Random Forest,97.78
+Model,CV Accuracy Mean (%),CV Accuracy Std (percentage points),CV Precision Macro (%),CV Recall Macro (%),CV F1 Macro (%),Accuracy (%),Final Test Precision Macro (%),Final Test Recall Macro (%),Final Test F1 Macro (%)
+Random Forest,98.16,0.48,98.15,97.92,98.03,98.48,98.66,98.11,98.37
+Logistic Regression,91.24,1.37,90.76,90.57,90.66,92.27,92.12,91.36,91.71
